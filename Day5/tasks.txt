@@ -1,0 +1,11 @@
+// ===========> handel code native 
+
+update , delete , index (all users)
+
+// oop 
+create , update ====> SQLINjection 
+
+
+// singleTone design pattteren ===> +5
+
+

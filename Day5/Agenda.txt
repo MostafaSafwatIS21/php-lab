@@ -1,0 +1,13 @@
+============> Connection with DataBase
+// MYSQLI   ||      PDO
+-- small             large
+-- mysql            -- postgree , mysql 
+                   =======================> use 
+
+
+======> craditaionilas 
+-- host : localhost:3306 
+-- dbtype
+-- dbName
+-- userName
+-- password
